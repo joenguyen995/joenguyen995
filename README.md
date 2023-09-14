@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Learning to use github
 
 <!--
 **joenguyen995/joenguyen995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
